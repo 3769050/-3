@@ -15,3 +15,6 @@
 ***Теперь страдаю от этого***
 #
 ***Теряя независимость*** 
+<p align="center">
+  <img width="400" height="250" src="https://avatars.mds.yandex.net/i?id=5ff58662cded090831979f9fac20c016_l-4219930-images-thumbs&n=13">
+</p>
